@@ -13,7 +13,9 @@
 #include "Proxy/proxy.h"
 #include "Hooks/hook_manager.h"
 
+#ifndef DIRECTINPUT_VERSION
 #define DIRECTINPUT_VERSION 0x0800
+#endif
 #include <dinput.h>
 
 typedef HRESULT(__stdcall* EndSceneFunc)(LPDIRECT3DDEVICE9 pDevice);
