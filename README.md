@@ -14,9 +14,10 @@ See the [workflows](./.github/workflows/)
 - @blueb4lloon
 - @ObjectiveSwift
 
-## Libraries/Projects
+## Libraries/Projects/Resources
 - [ImGui](https://github.com/ocornut/imgui)
 - [Kiero](https://github.com/Rebzzel/kiero)
 - [MinHook](https://github.com/TsudaKageyu/minhook)
 - [Msvc-wine](https://github.com/mstorsjo/msvc-wine)
 - [Clang](https://clang.llvm.org/)
+- https://www.youtube.com/watch?v=tvr--zY8u-M

@@ -47,4 +47,4 @@ jobs:
         with:
           name: DLL
           path: |
-            build/BHHax.dll
+            build/dinput8.dll
